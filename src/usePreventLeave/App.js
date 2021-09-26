@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const usePreventLeave = () => {
   const listener = (event) => {
     event.preventDefault();

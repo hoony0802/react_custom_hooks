@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./App.css";
 
 const useInput = (initialValue, validator) => {
   const [value, setValue] = useState(initialValue);

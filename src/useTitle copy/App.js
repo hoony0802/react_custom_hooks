@@ -1,5 +1,4 @@
 import { useEffect, useRef } from "react";
-import "./styles.css";
 
 const useClick = (onClick) => {
   const element = useRef();
