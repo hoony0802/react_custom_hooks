@@ -33,3 +33,7 @@
 5. useBeforeLeave
 
 - 마우스가 브라우저 창을 끌 것 같으면 메세지를 보여주는 커스텀 훅
+
+6. useFadeIn
+
+- FadeIn 효과를 설정해주는 CSS 커스텀 훅
