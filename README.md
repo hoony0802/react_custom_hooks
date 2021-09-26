@@ -37,3 +37,7 @@
 6. useFadeIn
 
 - FadeIn 효과를 설정해주는 CSS 커스텀 훅
+
+7. useNetwork
+
+- 네트워크 상태에 따라 활용할수 있는 커스텀 훅
