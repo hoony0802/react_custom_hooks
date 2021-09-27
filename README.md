@@ -1,6 +1,6 @@
 # React Custom Hooks
 
-## Utilize useState
+## Utilize useState / useEffect / useRef
 
 1. useInput
 
@@ -12,36 +12,38 @@
 
 - 탭을 전환할 때 사용할 수 있는 커스텀 훅
 
-## Utilize useEffect
-
-1. useTitle
+3. useTitle
 
 - title 태그 텍스트를 변경하는 커스텀 훅
 
-2. useClick
+4. useClick
 
 - 클릭 이벤트일 때 변경해주는 커스텀 훅
 
-3. useConfirm
+5. useConfirm
 
 - 유저에게 메세지를 보여주는 커스텀 훅
 
-4. usePreventLeave
+6. usePreventLeave
 
 - 브라우저 창을 끄기 전에 메세지를 보여주는 커스텀 훅
 
-5. useBeforeLeave
+7. useBeforeLeave
 
 - 마우스가 브라우저 창을 끌 것 같으면 메세지를 보여주는 커스텀 훅
 
-6. useFadeIn
+8. useFadeIn
 
 - FadeIn 효과를 설정해주는 CSS 커스텀 훅
 
-7. useNetwork
+9. useNetwork
 
 - 네트워크 상태에 따라 활용할수 있는 커스텀 훅
 
-7. useScroll
+10. useScroll
 
 - 마우스 스크롤 이벤트에 따라 CSS 변경해주는 커스텀 훅
+
+11. useFullScreen
+
+- 이미지를 fullscreen으로 확대하고 축소해주는 커스텀 훅
